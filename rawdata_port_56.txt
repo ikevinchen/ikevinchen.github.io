@@ -1,5 +1,5 @@
 /* module - vendor_name */ Eoptolionk-2x400GBase-DR4
-/* module - temperature */ 70
+/* module - temperature */ 370
 /* module - Transmitter: TX AOP */ 2.01; -2.02; 2.03; 2.04; 2.05; -2.06; 4.07; 3.08
 /* module - Transmitter: temperature */ 37; 36; 55; 34; 87; 34; 83; 46
 /* module - Transmitter: Speed */ 100.2; 101.2; 102.2; 103.2; 104.2; 105.2; 106.2; 107.2
